@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge SHA1 online",
+  "Type": "App",
+  "Id": "UyTEeurQMECQ2rftrk7DTg",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/UyTEeurQMECQ2rftrk7DTg",
+  "Created": "2024-11-27T09:35:20.1204679Z",
+  "Updated": "2024-11-27T09:35:20.1204679Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

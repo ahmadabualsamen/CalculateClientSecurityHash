@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VJU0yaMNV0SC3W7X3vKIzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/103653175" DesignTimeRectangle="383, 516, 466, 75" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='                              PW19167                              Lavinia Froehlich                              Romania                         ' /&gt;" Guid="7d4c792e-fbfe-4c0b-a48e-3ac45f95b138" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d39d8a13-ef46-4ce6-a2f8-bde3da62089e" DesignTimeRectangle="383, 479, 466, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H4' /&gt;" Guid="48ccea4a-b75e-436f-bb15-d90178ae222c" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2cee59ea6d09dec61eaa41215ebbe434.png" xmlns="">0nuOCZypcgku7aFSZy-lQvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

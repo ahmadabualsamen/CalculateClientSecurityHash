@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Result for sha1  55742…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "fwC_-4PEFEmT64HuUaDCaQ",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/fwC_-4PEFEmT64HuUaDCaQ",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/O_ehlo-XFUWQtQuDmMEK6w",
+  "Created": "2024-11-27T09:46:42.6163496Z",
+  "Updated": "2024-11-27T09:46:42.6163496Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
