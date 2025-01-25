@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ArtiKeys(1)",
+  "Type": "Screen",
+  "Id": "0237GN8P-kmIEMGJajZhSg",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/0237GN8P-kmIEMGJajZhSg",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/vmbPGm7txEGx50J_b9wF-w",
+  "Created": "2025-01-16T19:00:25.9197663Z",
+  "Updated": "2025-01-16T19:00:25.9197663Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hvG7g5QhTk6Ip98xaC2cpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="a906b434-0393-45a3-9214-a012d0b218d8" DesignTimeRectangle="975, 896, 202, 66" DesignTimeScaleFactor="1.375" ElementType="Button" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary btn-block btn-lg' aaname='Add Course' check:innerText='Add Course' /&gt;" Guid="d67e9074-85a5-48e8-8733-3c8f337977df" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a906b434-0393-45a3-9214-a012d0b218d8" DesignTimeRectangle="975, 790, 89, 33" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Category' tag='LABEL' type='' class='focus-label' check:innerText='Category' /&gt;" Guid="f7eca318-a04a-475a-a2e0-3ad377f03be8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb541df97c8a4d845cc902471ed20e90.png" xmlns="">0kIFCn0ZWU0eYRTGQVCZL9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

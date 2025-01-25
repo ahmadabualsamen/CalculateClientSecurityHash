@@ -113,13 +113,13 @@
       <AssemblyReference>System.Linq.Async</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Extract_Data_From_Acme_Website_1" sap:VirtualizedContainerService.HintSize="847.2,3090.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Extract_Data_From_Acme_Website_1" sap:VirtualizedContainerService.HintSize="847.2,3054.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap2010:Annotation.AnnotationText="PDD Section: Section 10 November&#xA;&#xA;Pre Condition:&#xA;None - As it is the start of the process &#xA;Post Condition:&#xA;Element Exist&#xA;Expected Arguments:&#xA;out_ExtractDataTable" DisplayName="Extract Data From Acme Website 1" sap:VirtualizedContainerService.HintSize="628.8,3067.2" sap2010:WorkflowViewState.IdRef="Sequence_93">
+    <Sequence sap2010:Annotation.AnnotationText="PDD Section: Section 10 November&#xA;&#xA;Pre Condition:&#xA;None - As it is the start of the process &#xA;Post Condition:&#xA;Element Exist&#xA;Expected Arguments:&#xA;out_ExtractDataTable" DisplayName="Extract Data From Acme Website 1" sap:VirtualizedContainerService.HintSize="628.8,3031.2" sap2010:WorkflowViewState.IdRef="Sequence_93">
       <Sequence.Variables>
         <Variable x:TypeArguments="s:DateTime" Name="DateTime_StartTime" />
         <Variable x:TypeArguments="x:String" Default="Extract Data From Acme Website 1" Name="XamlFileName" />
@@ -152,10 +152,10 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </Assign>
-      <ui:RetryScope DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="595.2,2682.4" sap2010:WorkflowViewState.IdRef="RetryScope_8" NumberOfRetries="3" RetryInterval="00:00:05">
+      <ui:RetryScope DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="595.2,2646.4" sap2010:WorkflowViewState.IdRef="RetryScope_8" NumberOfRetries="3" RetryInterval="00:00:05">
         <ui:RetryScope.ActivityBody>
           <ActivityAction>
-            <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="553.6,2474.4" sap2010:WorkflowViewState.IdRef="TryCatch_8">
+            <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="552,2438.4" sap2010:WorkflowViewState.IdRef="TryCatch_8">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -163,14 +163,14 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <TryCatch.Try>
-                <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="516.8,2220" sap2010:WorkflowViewState.IdRef="Sequence_98">
+                <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="550.4,2156" sap2010:WorkflowViewState.IdRef="Sequence_98">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <Sequence DisplayName="Pre Condition" sap:VirtualizedContainerService.HintSize="483.2,966.4" sap2010:WorkflowViewState.IdRef="Sequence_94">
+                  <Sequence DisplayName="Pre Condition" sap:VirtualizedContainerService.HintSize="516.8,934.4" sap2010:WorkflowViewState.IdRef="Sequence_94">
                     <Sequence.Variables>
                       <Variable x:TypeArguments="x:Boolean" Name="bool_PreCondition" />
                     </Sequence.Variables>
@@ -180,7 +180,7 @@
                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ui:UiElementExists DisplayName="Element Exists 'INPUT  email'" Exists="[bool_PreCondition]" sap:VirtualizedContainerService.HintSize="449.6,139.2" sap2010:WorkflowViewState.IdRef="UiElementExists_8">
+                    <ui:UiElementExists DisplayName="Element Exists 'INPUT  email'" Exists="[bool_PreCondition]" sap:VirtualizedContainerService.HintSize="417.6,139.2" sap2010:WorkflowViewState.IdRef="UiElementExists_8">
                       <ui:UiElementExists.Target>
                         <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="043610ce-8ad0-41f7-8064-3ee541dce464" InformativeScreenshot="f446a05c8d0958936a2bca0a68cd8008" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;&lt;webctrl tag='H1' /&gt;">
                           <ui:Target.TimeoutMS>
@@ -192,7 +192,7 @@
                         </ui:Target>
                       </ui:UiElementExists.Target>
                     </ui:UiElementExists>
-                    <If Condition="[bool_PreCondition]" sap:VirtualizedContainerService.HintSize="449.6,735.2" sap2010:WorkflowViewState.IdRef="If_15">
+                    <If Condition="[bool_PreCondition]" sap:VirtualizedContainerService.HintSize="417.6,703.2" sap2010:WorkflowViewState.IdRef="If_15">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -223,7 +223,7 @@
                       </If.Else>
                     </If>
                   </Sequence>
-                  <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="483.2,576" sap2010:WorkflowViewState.IdRef="Sequence_95">
+                  <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="516.8,576" sap2010:WorkflowViewState.IdRef="Sequence_95">
                     <Sequence.Variables>
                       <Variable x:TypeArguments="ui:UiElement" Name="outputElement" />
                     </Sequence.Variables>
@@ -233,13 +233,13 @@
                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Edge: ACME System 1 - Work Items" sap:VirtualizedContainerService.HintSize="449.6,484" sap2010:WorkflowViewState.IdRef="NApplicationCard_16" InteractionMode="DebuggerApi" OpenMode="Never" OutUiElement="[outputElement]" ScopeGuid="61d152ae-6fb6-4ec0-9ebe-f27d8ee05693" Version="V2">
+                    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Edge: ACME System 1 - Work Items" sap:VirtualizedContainerService.HintSize="483.2,484" sap2010:WorkflowViewState.IdRef="NApplicationCard_16" InteractionMode="DebuggerApi" OpenMode="Never" OutUiElement="[outputElement]" ScopeGuid="61d152ae-6fb6-4ec0-9ebe-f27d8ee05693" Version="V2">
                       <uix:NApplicationCard.Body>
                         <ActivityAction x:TypeArguments="x:Object">
                           <ActivityAction.Argument>
                             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                           </ActivityAction.Argument>
-                          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,244" sap2010:WorkflowViewState.IdRef="Sequence_96">
+                          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,244" sap2010:WorkflowViewState.IdRef="Sequence_96">
                             <Sequence.Variables>
                               <Variable x:TypeArguments="x:Int32" Name="countfirstextract" />
                             </Sequence.Variables>
@@ -248,7 +248,7 @@
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[out_DtExtractWi5]" DisplayName="Extract Table Data" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='WIID'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Type'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataNextLink' /&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='tr' /&gt;&lt;/row&gt;&lt;column exact='1' name='Column0' attr='fulltext'&gt;&lt;webctrl tag='tr' /&gt;&lt;webctrl tag='td' idx='2' /&gt;&lt;/column&gt;&lt;column exact='1' name='Column2' attr='fulltext'&gt;&lt;webctrl tag='tr' /&gt;&lt;webctrl tag='td' idx='4' /&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="382.4,182.4" sap2010:WorkflowViewState.IdRef="NExtractData_1" LimitExtractionTo="Page" MaximumResults="10" ScopeIdentifier="61d152ae-6fb6-4ec0-9ebe-f27d8ee05693" Version="V4">
+                            <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[out_DtExtractWi5]" DisplayName="Extract Table Data" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='WIID'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Type'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataNextLink' /&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='tr' /&gt;&lt;/row&gt;&lt;column exact='1' name='Column0' attr='fulltext'&gt;&lt;webctrl tag='tr' /&gt;&lt;webctrl tag='td' idx='2' /&gt;&lt;/column&gt;&lt;column exact='1' name='Column2' attr='fulltext'&gt;&lt;webctrl tag='tr' /&gt;&lt;webctrl tag='td' idx='4' /&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="416,182.4" sap2010:WorkflowViewState.IdRef="NExtractData_1" LimitExtractionTo="Page" MaximumResults="10" ScopeIdentifier="61d152ae-6fb6-4ec0-9ebe-f27d8ee05693" Version="V4">
                               <uix:NExtractData.NextLink>
                                 <uix:TargetAnchorable BrowserURL="acme-test.uipath.com/work-items" CVScreenId="09ed46d1-a40e-483b-902a-5e7972f0ed5a" CvElementArea="1546, 837, 33, 32" CvType="ArrowButton" DesignTimeRectangle="1550, 839, 27, 27" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='Next »' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Next »' tag='A' type='' class='page-numbers' aaname='&amp;gt;' check:innerText='&amp;gt;' /&gt;" Guid="d6b42425-c3ee-4d8e-8f26-099f01443096" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive" />
                               </uix:NExtractData.NextLink>
@@ -264,7 +264,7 @@
                       </uix:NApplicationCard.TargetApp>
                     </uix:NApplicationCard>
                   </Sequence>
-                  <Sequence DisplayName="Post Condition" sap:VirtualizedContainerService.HintSize="483.2,617.6" sap2010:WorkflowViewState.IdRef="Sequence_97">
+                  <Sequence DisplayName="Post Condition" sap:VirtualizedContainerService.HintSize="516.8,585.6" sap2010:WorkflowViewState.IdRef="Sequence_97">
                     <Sequence.Variables>
                       <Variable x:TypeArguments="x:Boolean" Name="bool_PostConditinExist" />
                     </Sequence.Variables>
@@ -274,7 +274,7 @@
                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <If Condition="[out_DtExtractWi5 IsNot Nothing AndAlso out_DtExtractWi5.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="449.6,534.4" sap2010:WorkflowViewState.IdRef="If_16">
+                    <If Condition="[out_DtExtractWi5 IsNot Nothing AndAlso out_DtExtractWi5.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="417.6,502.4" sap2010:WorkflowViewState.IdRef="If_16">
                       <If.Then>
                         <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,24.8" sap2010:WorkflowViewState.IdRef="Sequence_103">
                           <sap:WorkflowViewStateService.ViewState>
@@ -313,7 +313,7 @@
                     <ActivityAction.Argument>
                       <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
                     </ActivityAction.Argument>
-                    <Sequence sap:VirtualizedContainerService.HintSize="416,56.8" sap2010:WorkflowViewState.IdRef="Sequence_99">
+                    <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="550.4,24.8" sap2010:WorkflowViewState.IdRef="Sequence_99">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -336,7 +336,7 @@
                     <ActivityAction.Argument>
                       <DelegateInArgument x:TypeArguments="ui:BusinessRuleException" Name="exception" />
                     </ActivityAction.Argument>
-                    <Sequence sap:VirtualizedContainerService.HintSize="416,56.8" sap2010:WorkflowViewState.IdRef="Sequence_100">
+                    <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="416,56.8" sap2010:WorkflowViewState.IdRef="Sequence_100">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -349,6 +349,9 @@
                   </ActivityAction>
                 </Catch>
               </TryCatch.Catches>
+              <TryCatch.Finally>
+                <Sequence DisplayName="Finally" sap2010:WorkflowViewState.IdRef="Sequence_105" />
+              </TryCatch.Finally>
             </TryCatch>
           </ActivityAction>
         </ui:RetryScope.ActivityBody>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gXPpjPmyHUaWPSwmzBaZxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="817d5650-77c8-4ea3-adbe-af5f88685833" DesignTimeRectangle="1522, 813, 378, 24" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='Home' role='outline item' /&gt;&lt;ctrl name='Index.cshtml' role='outline item' /&gt;" Guid="ffd70db9-3bca-4911-83da-f2a811548742" ScopeSelectorArgument="&lt;wnd app='devenv.exe' title='EDU - Microsoft Visual Studio' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6f1722bbce80cb038a61518339ba91ee.png" xmlns="">0CjoGlGqpVE-a61qPZeGkpg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

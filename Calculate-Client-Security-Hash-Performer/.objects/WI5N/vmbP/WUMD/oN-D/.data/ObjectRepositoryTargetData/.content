@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DKsP0CiaWkyPXC7PZini-w" Reference="LcbglLKhGU-3yBHmaJ-tDA/oN-Dk7rjbkuN__ptqM07kA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="03cf6b7a-5b15-434f-a932-9c2c7b662b6b" CvElementArea="972, 820, 463, 57" CvType="InputBox" DesignTimeRectangle="973, 820, 460, 55" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzyAccuracy="1" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='CategoryId' tag='SELECT' type='' class='form-control' aaname='Category' check:text='{0}' /&gt;&quot;, str_Category)]" Guid="35161ccb-a2bf-4cb0-916f-2a46c9584d9a" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="03cf6b7a-5b15-434f-a932-9c2c7b662b6b" CvTextArea="974, 795, 91, 23" CvTextArgument="Category" CvType="Text" DesignTimeRectangle="975, 790, 89, 33" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Category' tag='LABEL' type='' class='focus-label' check:innerText='Category' /&gt;" Guid="dd52a40d-b2e8-4c86-8066-c202678903ec" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="08bba72b27937f8dc03f5475b96fb4aa.png" xmlns="">0DKvOET-YykmOPhNU28M4-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="&quot;web&quot;" Name="str_Category" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

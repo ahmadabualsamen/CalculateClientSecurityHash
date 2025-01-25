@@ -12,13 +12,13 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "dt_FilterWI5&Flowchart_1",
         "str_username&Flowchart_1",
         "sstr_Password&Flowchart_1",
         "arrAppProcessNames&Flowchart_1",
         "bool_LoginExist&Flowchart_1",
         "str_Email&Flowchart_1",
-        "dt_ExtractWi5&Flowchart_1"
+        "dt_ExtractWi5&Flowchart_1",
+        "dt_FilterWI5&Flowchart_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
@@ -28,6 +28,8 @@
       "Path": "AppControl/KillAllUsedApplications.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "bool_PostConditinExist&Sequence_9",
+        "IenumProcessRunning&Sequence_9",
         "DateTime_StartTime&Sequence_2",
         "XamlFileName&Sequence_2"
       ],
@@ -92,6 +94,29 @@
       "ArgumentsSectionElementsOrder": [
         "in_WIIDItems"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/ActivityTestBench/Bench_0.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AcmeSystem1/ClickWorkItems.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DateTime_StartTime&Sequence_3",
+        "XamlFileName&Sequence_3",
+        "bool_PreConditionExist&Sequence_14",
+        "var_PostCondition&Sequence_15",
+        "ExtractDataTable&Sequence_13",
+        "bool_PostConditinExist&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }

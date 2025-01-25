@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Microsoft Visual Studio(1)",
+  "Type": "Screen",
+  "Id": "662nAXxC6kmtYCvS1WLBPw",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/662nAXxC6kmtYCvS1WLBPw",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/AKLTM6Z5L02gjLRfAqoYdQ",
+  "Created": "2025-01-16T17:27:06.7329923Z",
+  "Updated": "2025-01-16T17:27:06.7329923Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

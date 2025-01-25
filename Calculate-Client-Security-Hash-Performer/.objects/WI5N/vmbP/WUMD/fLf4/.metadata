@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Course Price",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "fLf4bcxeNUG75Trse-Y4pA",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/fLf4bcxeNUG75Trse-Y4pA",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/WUMDWFL3W0qm7mz5Ts45vw",
+  "Created": "2025-01-16T20:08:54.2518835Z",
+  "Updated": "2025-01-16T20:08:54.2518835Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mHl_j065gEyXn5b3eF9dMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="58e81a9a-062a-4fca-97b7-487ecfdae858" CvElementArea="972, 755, 462, 56" CvType="InputBox" DesignTimeRectangle="975, 758, 457, 51" DesignTimeScaleFactor="1.375" ElementType="DropDown" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='CategoryId' tag='SELECT' type='' class='form-control' aaname='Category' /&gt;" Guid="a2becc5e-1c97-467b-807f-022a0a5a603f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="58e81a9a-062a-4fca-97b7-487ecfdae858" DesignTimeRectangle="975, 725, 89, 33" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Category' tag='LABEL' type='' class='focus-label' check:innerText='Category' /&gt;" Guid="1570581e-6e10-4622-9e3b-1f51d41c5a47" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="05f3fa88042a7cc7069bcd9dadba9d03.png" xmlns="">0HVW8G5qf8024hrXQpYuZwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

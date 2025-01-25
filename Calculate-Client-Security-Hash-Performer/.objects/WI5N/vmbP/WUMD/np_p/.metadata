@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Join Now",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "np_phfL1AkO9eyNg2z-G6g",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/np_phfL1AkO9eyNg2z-G6g",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/WUMDWFL3W0qm7mz5Ts45vw",
+  "Created": "2025-01-16T18:41:29.8000025Z",
+  "Updated": "2025-01-16T18:41:29.8000025Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PbH2QKpl6EmoEKo3kNo6VA" Reference="LcbglLKhGU-3yBHmaJ-tDA/np_phfL1AkO9eyNg2z-G6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="7bee2cc0-f21d-45cc-b777-775797d8a093" DesignTimeRectangle="1655, 225, 253, 103" DesignTimeScaleFactor="1.375" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='AddCoures ' parentid='navbarCollapse' tag='A' type='' class='btn btn-primary py-4 px-lg-5 d-none d-lg-block' check:innerText='AddCoures' /&gt;" Guid="46268cac-32cb-4bd8-9995-79041fe0b904" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7bee2cc0-f21d-45cc-b777-775797d8a093" CvTextArea="1447, 262, 166, 20" CvTextArgument="LOGOUT AHMAD" CvType="Text" DesignTimeRectangle="1448, 225, 166, 103" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Logout*' parentid='navbarCollapse' tag='A' type='' class='nav-item nav-link' check:innerText='LOGOUT AHMAD' /&gt;" Guid="49a81089-c50f-4d73-b34b-fed13a16f7d5" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4b282cbdfce42e2e5de810b34e647c51.png" xmlns="">0m9NYP5ZVoUK6BtaNYDDKRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome ArtiKeys",
+  "Type": "App",
+  "Id": "WI5NBRh2M0m5k1xNck7HJQ",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/WI5NBRh2M0m5k1xNck7HJQ",
+  "Created": "2025-01-16T18:30:13.4900165Z",
+  "Updated": "2025-01-16T18:30:13.4900165Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

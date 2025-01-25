@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MDmJoiWIwUO1LFW-9pe1Gg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="430d26ac-53d7-456c-a1bf-451ef29c0b19" CvTextArea="1527, 282, 273, 26" CvType="AnyWordGroup" DesignTimeRectangle="1530, 277, 270, 31" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;ctrl automationid='Button_1' name='Open a project or solution' role='push button' /&gt;&lt;ctrl role='text' automationid='' /&gt;" Guid="6b79e78d-4e37-4d32-93d2-2fa8054f635c" ScopeSelectorArgument="&lt;wnd app='devenv.exe' cls='HwndWrapper*' title='Microsoft Visual Studio' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1449, 269, 429, 94" ElementType="Button" FullSelectorArgument="&lt;ctrl automationid='Button_1' name='Open a project or solution' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='Button_1' name='Open a project or solution' role='push button' check:text='Open a project or solution' /&gt;" Guid="d1cd5a1a-37d2-4c18-bc7e-1b482f6c9136" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2cf7a0534f4bb4e81f73bceb0f564730.png" xmlns="">0PORS38UyMUWFbKh4ZA5ClA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

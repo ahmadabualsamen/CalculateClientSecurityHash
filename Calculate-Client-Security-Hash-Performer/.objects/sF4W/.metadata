@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Microsoft Visual Studio",
+  "Type": "App",
+  "Id": "sF4WLcVUs0a4NzbQ2RKvrA",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/sF4WLcVUs0a4NzbQ2RKvrA",
+  "Created": "2025-01-16T17:05:44.0443563Z",
+  "Updated": "2025-01-16T17:05:44.0443563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

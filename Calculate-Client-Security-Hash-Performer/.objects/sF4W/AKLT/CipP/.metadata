@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EDU - Microsoft Visual Studio",
+  "Type": "Screen",
+  "Id": "CipP113bMkOvU5Y3LZ6JbQ",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/CipP113bMkOvU5Y3LZ6JbQ",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/AKLTM6Z5L02gjLRfAqoYdQ",
+  "Created": "2025-01-16T18:18:20.9937565Z",
+  "Updated": "2025-01-16T18:18:20.9937565Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

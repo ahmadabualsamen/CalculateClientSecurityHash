@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aYyymJAKyUK9pqDSOsKzqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="8be948e9-e2f9-4961-ae16-cdfc7bee69b9" DesignTimeRectangle="975, 716, 457, 52" DesignTimeScaleFactor="1.375" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='StartDate' tag='INPUT' type='date' class='form-control' aaname='Course Start Date' /&gt;" Guid="63526ea2-08ac-4251-9edc-dd688ee921c5" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8be948e9-e2f9-4961-ae16-cdfc7bee69b9" DesignTimeRectangle="975, 683, 176, 33" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Course Start Date' tag='LABEL' type='' class='focus-label' check:innerText='Course Start Date' /&gt;" Guid="8b2ec5e5-8bd1-4339-be99-8fc083a02c7c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="07efac18c6604a05bb6b29415f1239f3.png" xmlns="">0kB8LVpqPQ0mIcTc3gOvVAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

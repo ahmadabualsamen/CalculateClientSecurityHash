@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uvTTh2VNBE2AT2oRji7gCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="84ff22ae-46fd-4d92-a577-04d56e25b6ed" CvElementArea="1127, 857, 306, 54" CvType="InputBox" DesignTimeRectangle="1129, 857, 305, 52" DesignTimeScaleFactor="1.25" ElementType="InputBox" Guid="4df5cd4e-f3a9-461c-8255-b7ca4c1fe03a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="975, 859, 457, 51" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='CourseImg' tag='INPUT' type='file' class='form-control' aaname='Course Image' /&gt;" Guid="ca0a6320-ed28-481e-992d-eb1330ff82d6" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d329d6e490a82bd60a0e55212a5a3bb6.png" xmlns="">0AYh3L0jCnk6tPxkhXd0ctw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

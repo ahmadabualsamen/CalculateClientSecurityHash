@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hpR_6aQCpUKwoHtedSUfhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/Index" CVScreenId="dc4ab031-5df0-4e18-b521-bd788ad81cb3" CvTextArea="1460, 262, 134, 20" CvTextArgument="CONTACT US" CvType="Text" DesignTimeRectangle="1462, 225, 132, 103" DesignTimeScaleFactor="1.375" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Contact Us' parentid='navbarCollapse' tag='A' type='' class='nav-item nav-link' check:innerText='CONTACT US' /&gt;" Guid="fee4532a-f042-478d-bfd0-a6aca3fefb98" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc4ab031-5df0-4e18-b521-bd788ad81cb3" CvTextArea="131, 255, 185, 46" CvTextArgument="ArtiKeys" CvType="Text" DesignTimeRectangle="75, 250, 241, 53" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='m-0 text-primary' aaname='ArtiKeys' check:innerText='ArtiKeys' /&gt;" Guid="086f86a8-5390-4dd3-b441-b5eae703582e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c0b3728e76baf9209cb085b043b3c324.png" xmlns="">0NnLeYiIG60KZU9dR7dlrgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

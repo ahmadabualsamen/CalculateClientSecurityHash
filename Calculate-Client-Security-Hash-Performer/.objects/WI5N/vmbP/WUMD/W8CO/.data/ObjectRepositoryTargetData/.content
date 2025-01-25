@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YlUrtOE3BkWqE3CkATV8tA" Reference="LcbglLKhGU-3yBHmaJ-tDA/W8COs1Qsb0SjJZoaDaRjvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Account/Register" CVScreenId="6856c6db-6380-410c-a5c5-31c3dc7fda62" DesignTimeRectangle="1307, 591, 53, 25" DesignTimeScaleFactor="1.375" ElementType="Text" FullSelectorArgument="&lt;webctrl class='text-primary' tag='A' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl class='text-primary' tag='A' type='' aaname='Login' check:innerText='Login' /&gt;" Guid="c396853d-5195-4b7b-b7e0-be6609c6d7dc" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="51962398-6f44-4a2b-a24c-ea88ff2c9298" DesignTimeRectangle="1046, 591, 261, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Already have an account? ' tag='SPAN' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Already have an account? ' tag='SPAN' type='' class='' check:innerText='Already have an account?' /&gt;" Guid="cc6dce94-0ed3-4fc3-a6c9-a8d9859ddbb4" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="91111866195da2da823d780750ba2e00.png" xmlns="">0r2jAZY8jJUCTWo5f9_VpyQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

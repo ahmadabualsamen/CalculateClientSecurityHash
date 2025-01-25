@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vTEON_K-IUS0Kk5MR8X9_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="de013c1a-cce2-4a7b-8991-705dc9c371c6" CvElementArea="229, 505, 453, 31" CvType="InputBox" DesignTimeRectangle="230, 507, 451, 29" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd aaname='File name:' automationid='1148' /&gt;" Guid="2710172d-c0a9-4197-8013-4dc3f9ff0e12" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='devenv.exe' title='Open Project/Solution' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="de013c1a-cce2-4a7b-8991-705dc9c371c6" CvTextArea="155, 512, 69, 16" CvTextArgument="File name:" CvType="Text" DesignTimeRectangle="157, 511, 67, 20" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlid='1090' title='File &amp;amp;name:' /&gt;" Guid="47bb8a82-bc64-4ac1-8398-994ddb13b01e" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="910efcbebcdd2733761a3b44a984f617.png" xmlns="">0omqhEDVtlEibew4vMY86og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

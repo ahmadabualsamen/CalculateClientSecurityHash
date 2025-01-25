@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kEIa0fhCpE6FxNDY4fX62w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Account/Login" CVScreenId="55e06837-2fa2-446f-88a5-2ec023ddfc4e" DesignTimeRectangle="975, 583, 457, 52" DesignTimeScaleFactor="1.375" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='Email' tag='INPUT' type='text' class='form-control' placeholder='UserName ' aaname='UserName' /&gt;" Guid="b66ca125-3e70-4e9f-9302-d96fdf794c3e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="55e06837-2fa2-446f-88a5-2ec023ddfc4e" CvTextArea="974, 545, 116, 20" CvTextArgument="UserName" CvType="Text" DesignTimeRectangle="975, 539, 114, 33" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='form-label' aaname='UserName' check:innerText='UserName' /&gt;" Guid="c27af9e0-23e9-4c04-90e7-7aec63f7071b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2ad95e0b30918dbefd7ffe9e4b01f9eb.png" xmlns="">0OLXZbDwUY0udhEimex5XCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9a3TqhXauUaav3NjWDBvHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7c8cd8b8-3580-499a-873f-8d388a229446" CvTextArea="41, 105, 361, 15" CvTextArgument="View in Browser (Google Chrome) Ctrl+Shift+W" CvType="Text" DesignTimeRectangle="4, 99, 421, 27" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='View in Browser (Google Chrome)' role='menu item' /&gt;" FuzzyAccuracy="0.87" FuzzySelectorArgument="&lt;ctrl name='View in Browser (Google Chrome)' role='menu item' automationid='' check:text='View in Browser (Google Chrome)' /&gt;" Guid="a7f0207e-c497-4347-b9de-81e1bae45c5f" ScopeSelectorArgument="&lt;wnd app='devenv.exe' cls='HwndWrapper*' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d36d606cd8ea69c8302236a776a68169.png" xmlns="">03t-ssWPBSkOlHtS5cjjbpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

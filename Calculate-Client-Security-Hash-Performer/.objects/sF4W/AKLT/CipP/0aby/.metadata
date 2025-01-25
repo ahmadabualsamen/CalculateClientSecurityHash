@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Debug Target",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "0abynNDrIUOyQHKetMyH3w",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/0abynNDrIUOyQHKetMyH3w",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/CipP113bMkOvU5Y3LZ6JbQ",
+  "Created": "2025-01-16T18:18:21.1983518Z",
+  "Updated": "2025-01-16T18:18:21.1983518Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

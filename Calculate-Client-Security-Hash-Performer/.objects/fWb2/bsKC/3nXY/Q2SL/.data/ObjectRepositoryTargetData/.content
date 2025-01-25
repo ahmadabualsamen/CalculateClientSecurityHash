@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hm7qSxOTz0Cuu_T8ShWZqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="285, 374, 94, 107" DesignTimeScaleFactor="1.25" ElementType="ListItem" FullSelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Adobe Acrobat' role='list item' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Adobe Acrobat' role='list item' automationid='' check:text='Adobe Acrobat' /&gt;" Guid="38eccb87-8a6c-4b09-a865-b78c3bb5ae55" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='WorkerW' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8179d8464141f801cb2ab5621464dd05.png" xmlns="">0M5Fn9d6C6UKk6v1LA2CXGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

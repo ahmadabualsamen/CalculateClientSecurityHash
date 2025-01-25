@@ -1,0 +1,13 @@
+﻿{
+  "Name": "View in Browser (Google…",
+  "Type": "Element",
+  "Id": "K1KOrMu_70eEU5ZUB_IZRw",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/K1KOrMu_70eEU5ZUB_IZRw",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/CipP113bMkOvU5Y3LZ6JbQ",
+  "Created": "2025-01-16T19:17:32.7275427Z",
+  "Updated": "2025-01-16T19:17:32.7275427Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

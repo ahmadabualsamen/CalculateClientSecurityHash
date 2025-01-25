@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ByFP9N1LY0W6b8ang-dXeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Home/AddCoures" CVScreenId="a14ee757-d979-4b15-8ac5-b0d555bf615a" DesignTimeRectangle="975, 539, 457, 52" DesignTimeScaleFactor="1.375" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='CourseName' tag='INPUT' type='text' class='form-control' placeholder='Enter Course name' aaname='Course Name' /&gt;" Guid="4798c159-6f13-44a4-9979-913f15fececb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a14ee757-d979-4b15-8ac5-b0d555bf615a" DesignTimeRectangle="975, 506, 136, 33" ElementType="Text" FuzzyAccuracy="0.99" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='focus-label' aaname='Course Name' check:innerText='Course Name' /&gt;" Guid="d67c1009-eb9b-42c3-beb3-f24d9bd5a557" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="69b0cd317632a0013fd2ae6f980daf81.png" xmlns="">0k-m8keC99k2Iamhqybna1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

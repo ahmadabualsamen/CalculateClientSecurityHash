@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h-BTQfRrgE2ENBlYCjAVBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Account/Login" CVScreenId="13490d3f-686b-47b5-9aa8-f07161431625" DesignTimeRectangle="975, 763, 131, 66" DesignTimeScaleFactor="1.375" ElementType="Button" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary btn-block btn-lg mt-4' aaname='Login' check:innerText='Login' /&gt;" Guid="63eb83fe-5dd5-4abc-934e-f2463a1dedf2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="13490d3f-686b-47b5-9aa8-f07161431625" DesignTimeRectangle="975, 427, 457, 46" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='text-primary' aaname='Login' check:innerText='Login' /&gt;" Guid="2b4b5380-59c0-4471-b769-9a6aa4de0f6c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8353767fece5d9a4171a2e6e40e1c061.png" xmlns="">0sxTP4bjqKUm8MDZUOu3_qA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

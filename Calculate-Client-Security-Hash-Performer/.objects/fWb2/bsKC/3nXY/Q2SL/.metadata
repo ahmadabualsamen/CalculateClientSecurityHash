@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Adobe Acrobat",
+  "Type": "Element",
+  "Id": "Q2SLySqtz06YcrSBr0SEAw",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/Q2SLySqtz06YcrSBr0SEAw",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/3nXY2gXwL0CvYpxzvv7wMw",
+  "Created": "2025-01-16T17:01:53.4971563Z",
+  "Updated": "2025-01-16T17:01:53.4971563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="c63k1wA-70q8KfVa2YECBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;wnd app='chrome.exe' title='Open' /&gt;" Url="localhost/Home/AddCoures" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

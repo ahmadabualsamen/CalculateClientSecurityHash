@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="20vS2pg0UkuWo0475h4q5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="6a032065-c9d2-4dfc-a376-6b9b3b2a51d8" CvTextArea="1720, 264, 121, 21" CvTextArgument="AddCoures" CvType="Text" DesignTimeRectangle="1655, 225, 253, 103" DesignTimeScaleFactor="1.375" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='AddCoures ' parentid='navbarCollapse' tag='A' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='AddCoures ' parentid='navbarCollapse' tag='A' type='' class='btn btn-primary py-4 px-lg-5 d-none d-lg-block' check:innerText='AddCoures' /&gt;" Guid="bf439e37-2db7-470b-9cb9-229c17ca6b07" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArtiKeys' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6a19695a2edcf38194d860238ca9543c.png" xmlns="">0nONz1HCxVECoIBVRwwHwXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

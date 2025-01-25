@@ -1,0 +1,14 @@
+﻿{
+  "Name": "AddCoures",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JoZIpqE8-Eyl1d92h_91yA",
+  "Reference": "LcbglLKhGU-3yBHmaJ-tDA/JoZIpqE8-Eyl1d92h_91yA",
+  "ParentRef": "LcbglLKhGU-3yBHmaJ-tDA/WUMDWFL3W0qm7mz5Ts45vw",
+  "Created": "2025-01-16T22:34:44.3031559Z",
+  "Updated": "2025-01-16T22:34:44.3031559Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
